@@ -11,6 +11,7 @@ Ya hay otras listas de este tipo de blogs en Github:
 ## Videojuegos
 
 - [Activision](https://research.activision.com/t5/Publications/bg-p/publications)
+- [Digital Dragons](https://www.youtube.com/user/DigitalDragonsKrakow/videos): Colección de vídeos de gente de la empresa.
 - [Rare](https://www.rare.co.uk/news): usar el filtro Staff para entrar en los Techblogs. Ej: [Test and Testability](https://www.rare.co.uk/news/tech-blog-testability)
 - [Riot Games Engineering](https://technology.riotgames.com/)
 - [Sega](techblog.sega.jp/entry/2018/10/15/100000). En japonés. Este es de los pocos ejemplos en inglés.
